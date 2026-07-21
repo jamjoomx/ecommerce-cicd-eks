@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "Sample backend service deployed via CI/CD to AWS EKS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"no tests configured yet\" && exit 0"
+  },
+  "license": "MIT"
+}
